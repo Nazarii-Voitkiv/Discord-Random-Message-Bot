@@ -4,12 +4,12 @@ This bot selects a random message from one Discord channel and forwards it to an
 
 ## Features
 
-- 🕒 Automatically sends a random message once per day
-- 💬 Command to manually send a random message
-- 🖼️ Supports messages with images
-- ⚙️ Configurable source and target channels
-- 📝 Written in TypeScript for better code quality
-- 🔧 Easy channel configuration through commands
+- Automatically sends a random message once per day
+- Command to manually send a random message
+- Supports messages with images
+- Configurable source and target channels
+- Written in TypeScript for better code quality
+- Easy channel configuration through commands
 
 ## Setup Instructions
 
